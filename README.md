@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lifedaemon-kill
 - 🐳 I’m interested in Development, Information Security
-- ✨ I’m currently learning 🇬🇴lang
+- ✨ I’m currently learning Java, Golang
 - 😄 Pronouns: he/him
 
 <!---
